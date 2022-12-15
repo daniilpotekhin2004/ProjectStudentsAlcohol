@@ -590,8 +590,8 @@ st.subheader("Telegram bot")
 
 st.write("You can find bot by this link t.me/Alcash1bot")
 
-st.subheader("CODE: https://daniilpotekhin2004-telegram-bot-telegram-bot-vx3q44.streamlit.app/")
-
+st.subheader("CODE")
+st.subheader("https://daniilpotekhin2004-telegram-bot-telegram-bot-vx3q44.streamlit.app/")
 
 
 
